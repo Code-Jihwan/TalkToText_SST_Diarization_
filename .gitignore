@@ -2,3 +2,6 @@ whisper_env/
 .venv/
 __pycache__/
 *.pyc
+test_audio.wav
+*_result.txt
+*_with_timestamps.txt
