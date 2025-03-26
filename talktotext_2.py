@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1FcKzzlb88-z2lMv5n7TjO30MQw5srnX1
 """
 
+
 # 필요 라이브러리 설치 (whisper, pyannote, ffmpeg)
 !pip install -qq git+https://github.com/openai/whisper.git
 !pip install -qq pyannote.audio
